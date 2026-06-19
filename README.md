@@ -20,7 +20,7 @@ I have experienced the following:
 * **Languages**: Java, JavaScript, PHP
 * **Frameworks**: React, Spring Boot
 * **Styling**: Bootstrap, Tailwind, HTML, CSS
-* **DB & Tools**: MySQL, Oracle, AWS Cloud
+* **DB & Tools**: MySQL, Oracle, AWS Cloud, LoRaWAN
 
 ---
 

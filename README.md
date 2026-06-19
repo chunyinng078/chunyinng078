@@ -6,6 +6,13 @@
 
 ---
 
+## 🏆 Certifications
+
+* **AWS Certified Solutions Architect – Associate (SAA-C03)** ☁️
+  > Validated my ability to design and deploy well-architected systems on AWS.
+
+---
+
 ## 💼 Tech Skillset
 
 I have experienced the following:

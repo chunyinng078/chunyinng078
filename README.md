@@ -22,6 +22,7 @@ I have experienced the following:
 * [Personal Page 2024](https://github.com/chunyinng078/personal-page) ([Go to site](https://chunyinng078.site/))
   > Personal page
   * React, Tailwind + Flowbite
+  * Utilizing AWS Amplify, S3, Route 53
 
 * [LoRaWAN Plant Monitor 2024](https://github.com/chunyinng078/FinalYearProject-LoRaWAN-PlantMonitor) *(Undergraduate Graduation Project)* ([Go to site](https://lorawan-plant-monitor.online/))
   > Plants real time monitoring for alert purpose

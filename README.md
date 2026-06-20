@@ -27,7 +27,7 @@ I have experienced the following:
 ## 🚀 Projects
 
 * [Personal Page 2024](https://github.com/chunyinng078/personal-page) ([Go to site](https://chunyinng078.site/))
-  > Personal page
+  > Personal page for Edwin NG
   * React, Tailwind + Flowbite, Ant-design/icons
   * Utilizing AWS Amplify, S3, Route 53
 
@@ -36,9 +36,9 @@ I have experienced the following:
   * LoRaWAN, The Things Stack, Arduino, PHP, MySQL, AES Encryption/Decryption
 
 * [Challenge App 2026](https://github.com/chunyinng078/ChallengeApp) ([Go to site](https://d2pdyfcra4vp4j.cloudfront.net/))
-  > Java Spring Boot application with AWS
+  > A web application to let person/people set monthly challenges
   * Architecture: Full-stack portfolio featuring a React frontend hosted on S3 and a Java Spring Boot/MySQL backend on EC2.
-  *Security: Unified under a CloudFront Reverse Proxy to completely hide the backend public IP and bypass CORS natively.
+  * Security: Unified under a CloudFront Reverse Proxy to completely hide the backend public IP and bypass CORS natively.
 
 ---
 

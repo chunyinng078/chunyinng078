@@ -35,7 +35,7 @@ I have experienced the following:
   > Plants real time monitoring for alert purpose
   * LoRaWAN, The Things Stack, Arduino, PHP, MySQL, AES Encryption/Decryption
 
-* [Challenge App 2026 WIP](https://github.com/chunyinng078/ChallengeApp) ([Go to site](https://d2pdyfcra4vp4j.cloudfront.net/))
+* [Challenge App 2026](https://github.com/chunyinng078/ChallengeApp) ([Go to site](https://d2pdyfcra4vp4j.cloudfront.net/))
   > Java Spring Boot application with AWS
   * Architecture: Full-stack portfolio featuring a React frontend hosted on S3 and a Java Spring Boot/MySQL backend on EC2.
   *Security: Unified under a CloudFront Reverse Proxy to completely hide the backend public IP and bypass CORS natively.

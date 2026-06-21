@@ -28,7 +28,7 @@ I have experienced the following:
 
 * [Challenge App 2026](https://github.com/chunyinng078/ChallengeApp) (🚀[Live Demo](https://d2pdyfcra4vp4j.cloudfront.net/))
   > A web application to let person/people set monthly challenges
-  * Architecture: Full-stack portfolio featuring a React frontend hosted on S3 and a Java Spring Boot/MySQL backend on EC2.
+  * Architecture: Full-stack portfolio featuring a React frontend (styled with React-Bootstrap) hosted on S3 and a Java Spring Boot/MySQL backend on EC2.
   * Security: Unified under a CloudFront Reverse Proxy to completely hide the backend public IP and bypass CORS natively.
 
 * [LoRaWAN Plant Monitor 2024](https://github.com/chunyinng078/FinalYearProject-LoRaWAN-PlantMonitor) *(Undergraduate Graduation Project)* (🚀[Live Demo](https://lorawan-plant-monitor.online/) 🎥[Demo Video 1](https://www.youtube.com/watch?v=vliZpw7Myak) 🎥[Demo Video 2](https://www.youtube.com/watch?v=oPejHBNpKV4))

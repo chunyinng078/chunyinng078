@@ -40,7 +40,7 @@ I have experienced the following:
     * React, Tailwind + Flowbite, Ant-design/icons
     * Utilizing AWS Amplify, S3, Route 53
 
- * [Simple E-Commerce Website 2024](https://github.com/chunyinng078/personal-page) (🎥[Demo Video](https://www.youtube.com/watch?v=s0nMpaUCarM)) 
+ * [Simple E-Commerce Website 2024](https://github.com/chunyinng078/simple-ecommerce-frontend) (🎥[Demo Video](https://www.youtube.com/watch?v=s0nMpaUCarM)) 
     > A 3-person university group project implementing an online department store.
     * My part -> React frontend development
     * Login / Logout, Product Listing, Search and Filtering, Shopping Cart with Local Storage

@@ -17,9 +17,9 @@
 
 I have experienced the following:
 
-* **Languages**: Java, JavaScript, PHP
+* **Languages**: Java, JavaScript, PHP, HTML
 * **Frameworks**: React, Spring Boot
-* **Styling**: Bootstrap, Tailwind, HTML, CSS
+* **Styling**: Bootstrap, Tailwind, CSS
 * **DB & Tools**: MySQL, Oracle, AWS Cloud, LoRaWAN
 
 ---
